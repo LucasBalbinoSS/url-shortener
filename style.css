@@ -209,6 +209,7 @@ img {
 .form-encurtar-link input {
     border: none;
     border-radius: 6px;
+    font-size: 16px;
     height: 47px;
     outline: none;
     padding-inline: 20px;
