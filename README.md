@@ -13,7 +13,7 @@ Another point worth saying is that this project is 100% responsive, so the user 
 ## Resolutions
 
 ### Desktop
+<img height="800" src="https://github.com/LucasBalbinoSS/url-shortener/assets/82191848/6427e5a5-aa5d-49c9-a4f1-8aa331cad07a">
 
-Desktop|Mobile
--|-
-|<img height="1200px" src="https://github.com/LucasBalbinoSS/url-shortener/assets/82191848/6427e5a5-aa5d-49c9-a4f1-8aa331cad07a">|<img height="1200px" src="https://github.com/LucasBalbinoSS/url-shortener/assets/82191848/1dd46e63-cf83-4fdb-bdd7-7e5bb4421211">
+### Mobile
+<img height="1400" src="https://github.com/LucasBalbinoSS/url-shortener/assets/82191848/1dd46e63-cf83-4fdb-bdd7-7e5bb4421211">
