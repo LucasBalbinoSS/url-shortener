@@ -47,8 +47,14 @@
 
     function urlCopiar(texto) {
         const $botaoCopiar = document.querySelector('.js-botao-copiar')
+
         $botaoCopiar.addEventListener('click', () => {
             navigator.clipboard.writeText(texto)
+            $botaoCopiar.innerText = 'Copied!'
+        })
+
+        $botaoCopiar.addEventListener('mouseout', () => {
+            $botaoCopiar.innerText = 'Copy'
         })
     }
 })()

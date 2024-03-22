@@ -223,7 +223,7 @@ img {
     text-align: start;
 }
 
-.cont-resultado-link .botao-primario {
+.botao-copiar {
     align-items: center;
     background-color: transparent;
     border: 1px dashed var(--cyan);
@@ -240,16 +240,20 @@ img {
     pointer-events: none;
 }
 
-.cont-resultado-link .botao-primario:hover {
+.botao-copiar:hover {
     background-color: var(--cyan);
     border-color: #fff;
     color: #fff;
 }
 
-.cont-resultado-link .botao-primario:active {
+.botao-copiar:active {
     background-color: #fff;
     border-color: var(--cyan);
     color: var(--cyan);
+}
+
+.botao-copiar-texto {
+    font-weight: 500;
 }
 
 .link-inicial {
